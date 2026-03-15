@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech CS student at ICCSCEM, driven by a curiosity for technology and a love for tinkering with various tools and softwares. My journey involves delving into the world of computer science, exploring new ideas and fields within CS , and sharing my insights with the community and also experimenting with newer technologies.
 
-![<noble20048>'s Stats](https://github-readme-stats.vercel.app/api?noble20048=<noble20048>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Noble Biju's Stats](https://github-readme-stats.vercel.app/api?username=noble20048&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
