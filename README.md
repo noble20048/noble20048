@@ -1,4 +1,4 @@
-# Hi, I'm <Noble Biju>! 👋
+# Hi, I'm Noble Biju! 👋
 
 I am a passionate B.Tech CS student at ICCSCEM, driven by a curiosity for technology and a love for tinkering with various tools and softwares. My journey involves delving into the world of computer science, exploring new ideas and fields within CS , and sharing my insights with the community and also experimenting with newer technologies.
 
@@ -10,7 +10,7 @@ I am a passionate B.Tech CS student at ICCSCEM, driven by a curiosity for techno
 - 🌐 Proud member of the IEDC , contributing to the tech community.
 - Former member of Scouts and Guides.
 - Love to play games
-- Explorative and curioushttps
+- Explorative and curious
 
 
 
@@ -24,7 +24,7 @@ I am a passionate B.Tech CS student at ICCSCEM, driven by a curiosity for techno
   - Navigating through linux cli and getting rid of gui installs lol
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Node.js.
-  - Tinkering with flutter for creating unique mobile applications(coming soon).
+  - Tinkering with flutter for creating unique mobile applications.
   - Trying out various linux distros.
   - Learning about web based 2d game dev using html css and javascript.
   - Surfing through tryhackme rooms slowly.
