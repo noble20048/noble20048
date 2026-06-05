@@ -32,7 +32,7 @@ I am a passionate B.Tech CS student at ICCSCEM, driven by a curiosity for techno
  ## 🏆 Achievements
 
 - Attended MIC hackathon conducted by government of India,with a friend of mine
-- Competed along with the team in Artifact hackathin conducted by the coding club of our college.
+- Competed along with the team in Artifact hackathon conducted by the coding club of our college.
 - Participated in Exodus Hackathon 2026, again conducted by the coding club of our college as a team.
 - Attended another hackathon,named "useless project hackathon" by Tinkerhub, with my classmate.
 
