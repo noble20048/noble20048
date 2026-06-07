@@ -1,47 +1,38 @@
-# Hi, I'm Noble Biju! 👋
+# Noble Biju
 
-I am a passionate B.Tech CS student at ICCSCEM, driven by a curiosity for technology and a love for tinkering with various tools and softwares. My journey involves delving into the world of computer science, exploring new ideas and fields within CS , and sharing my insights with the community and also experimenting with newer technologies.
+I am a B.Tech Computer Science student at ICCSCEM, focused on software engineering, system architecture, and Linux environments. My work involves exploring new technologies and building technical solutions through experimentation and development.
 
-![Noble Biju's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=noble20048&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## Stats
 
-## 🚀 About Me
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=noble20048&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I'm currently pursuing my Btech in Computer Science at ICCS College of Engineering and Management.
-- 🌐 Proud member of the IEDC , contributing to the tech community.
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noble20048&layout=compact&theme=vue-dark)
+
+## About Me
+
+- Currently pursuing B.Tech in Computer Science at ICCS College of Engineering and Management.
+- Member of the IEDC, focusing on technical community contributions.
 - Former member of Scouts and Guides.
-- Love to play games
-- Explorative and curious
-
-
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,typescript,dart,javascript,python,linux,node.js,git,flutter,dart,cli)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+[ ![Skills](https://skillicons.dev/icons?i=js,html,css,wasm,typescript,dart,javascript,python,linux,node.js,git,flutter,cli) ](https://skillicons.dev)
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring css and typescript
-  - Navigating through linux cli and getting rid of gui installs lol
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Node.js.
-  - Tinkering with flutter for creating unique mobile applications.
-  - Trying out various linux distros.
-  - Learning about web based 2d game dev using html css and javascript.
-  - Surfing through tryhackme rooms slowly.
+## Current Focus
 
- ## 🏆 Achievements
+- Full Stack Web Development: TypeScript, Tailwind CSS, and Node.js.
+- Linux Systems: CLI-based workflow and distribution experimentation.
+- Mobile Development: Flutter implementation.
+- Game Development: HTML5 and JavaScript-based 2D engine projects.
+- Cybersecurity: Network security analysis and TryHackMe labs.
 
-- Attended MIC hackathon conducted by government of India,with a friend of mine
-- Competed along with the team in Artifact hackathon conducted by the coding club of our college.
-- Participated in Exodus Hackathon 2026, again conducted by the coding club of our college as a team.
-- Attended another hackathon,named "useless project hackathon" by Tinkerhub, with my classmate.
+## Achievements
 
+- MIC Hackathon: Participant.
+- Artifact Hackathon: Team competitor.
+- Exodus Hackathon 2026: Team participant.
+- TinkerHub "Useless Project Hackathon": Participant.
 
-## 📬 Get in Touch
+## Connect
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/noble-biju-ab2b4b283/)
-
-
-Thanks for stopping by! Let's connect and deep dive into the world of computer science with sheer curiosity. 🚀
-
--->
+[LinkedIn](https://www.linkedin.com/in/noble-biju-ab2b4b283/)
