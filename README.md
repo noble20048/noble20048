@@ -100,10 +100,6 @@
 
 <br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=noble20048&theme=darkhub&no-frame=false&no-bg=true&margin-w=8&column=7)
-
-</div>
-
 ---
 
 ## 🐍 Watch Me Eat Your Commits
