@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:00f5d4,100:0d1117&height=300&section=header&text=Noble%20Biju&fontSize=60&fontColor=ffffff&fontAlignY=42&fontFamily=Press+Start+2P&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Linux%20Nerd&descAlignY=62&descColor=00f5d4&descSize=13&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:00f5d4,100:0d1117&height=220&section=header&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=38&duration=1&pause=99999999&color=00F5D4&center=true&vCenter=true&repeat=false&width=700&height=80&lines=NOBLE%20BIJU" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=1&pause=99999999&color=8892b0&center=true&vCenter=true&repeat=false&width=700&height=35&lines=Software%20Engineer%20%7C%20Builder%20%7C%20Linux%20Nerd" />
 
 <br/>
 
@@ -96,7 +100,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/noble20048/noble20048/output/github-snake.gif" alt="snake" />
+  <img src="https://raw.githubusercontent.com/noble20048/noble20048/output/github-snake-dark.svg" alt="snake" />
 </div>
 
 ---
