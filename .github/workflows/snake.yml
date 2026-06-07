@@ -22,8 +22,7 @@ jobs:
         with:
           github_user_name: noble20048
           outputs: |
-            dist/github-snake-dark.svg?color_snake=00ffff&color_dots=0d1117,001a3d,0047ab,00bfff,00ffff
-            dist/github-snake.gif?palette=github-dark&color_snake=00f5d4&color_dots=#0d1117,#003d2e,#00a86b,#00f5d4,#ffffff&animate=true
+            dist/github-snake-dark.svg?color_snake=ff6b6b&color_dots=0d1117,1a1a6e,0047ab,00c896,ff6b6b
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3
