@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:00f5d4,100:0d1117&height=250&section=header&text=Noble%20Biju&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Linux%20Nerd&descAlignY=58&descColor=00f5d4&descSize=18&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:00f5d4,100:0d1117&height=280&section=header&text=Noble%20Biju&fontSize=60&fontColor=ffffff&fontAlignY=40&fontFamily=Press+Start+2P&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Linux%20Nerd&descAlignY=60&descColor=00f5d4&descSize=14&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+%7C+Linux+%7C+Security+%7C+Game+Dev;Building+things+that+(sometimes)+work;KTU+CS+%E2%86%92+Software+Engineer+someday;Always+in+the+middle+of+too+many+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Full+Stack+%7C+Linux+%7C+Security+%7C+Game+Dev;Building+things+that+(sometimes)+work;KTU+CS+%E2%86%92+Software+Engineer+someday;Always+in+the+middle+of+too+many+projects" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -17,8 +17,6 @@
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3&section=header&stroke=00f5d4&strokeWidth=2"/>
 
 ```bash
 ╔══════════════════════════════════════════════════════════════╗
