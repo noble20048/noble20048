@@ -1,61 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Noble%20Biju&fontSize=60&fontColor=00f5d4&fontAlignY=38&desc=CS%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descColor=8892b0&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+Making;Linux+%7C+Security+%7C+Game+Dev+%7C+Flutter;Always+Building+Something" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:00f5d4,100:0d1117&height=250&section=header&text=Noble%20Biju&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Linux%20Nerd&descAlignY=58&descColor=00f5d4&descSize=18&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-noble--biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noble-biju-ab2b4b283/)
-[![Profile Views](https://komarev.com/ghpvc/?username=noble20048&label=Profile%20Views&color=00f5d4&style=for-the-badge)](https://github.com/noble20048)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+%7C+Linux+%7C+Security+%7C+Game+Dev;Building+things+that+(sometimes)+work;KTU+CS+%E2%86%92+Software+Engineer+someday;Always+in+the+middle+of+too+many+projects" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noble-biju-ab2b4b283/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noble20048)
+[![Profile Views](https://komarev.com/ghpvc/?username=noble20048&label=Profile+Views&color=00f5d4&style=for-the-badge)](https://github.com/noble20048)
 
 </div>
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  > whoami                                                ║
-║  Noble Biju — B.Tech CS @ ICCS College, Kerala           ║
-║                                                          ║
-║  > cat /etc/passion                                      ║
-║  Systems | Security | Games | Web | Linux                ║
-║                                                          ║
-║  > systemctl status noble                                ║
-║  ● noble.service - Active: running since ~2019           ║
-║    Main PID: Building cool stuff                         ║
-║    Tasks: Too many at once                               ║
-╚══════════════════════════════════════════════════════════╝
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3&section=header&stroke=00f5d4&strokeWidth=2"/>
+
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   noble@iccs:~$ whoami                                       ║
+║   Noble Biju — B.Tech CS @ ICCS College, Kerala              ║
+║                                                              ║
+║   noble@iccs:~$ cat /etc/interests                           ║
+║   Systems · Security · Games · Web · Linux                   ║
+║                                                              ║
+║   noble@iccs:~$ systemctl status noble.service               ║
+║   ● noble.service — Active: running                          ║
+║     Main PID: Building cool stuff                            ║
+║     Tasks: Too many at once (no limit configured)            ║
+║     Memory: ∞ (curiosity has no ceiling)                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ⚡ Current Focus
+## ⚡ What I'm Working On
 
-<table>
-  <tr>
-    <td>🌐 <b>Full Stack</b></td>
-    <td>TypeScript · Tailwind CSS · Node.js</td>
-  </tr>
-  <tr>
-    <td>🐧 <b>Linux</b></td>
-    <td>CLI workflows · Distro hopping · Shell scripting</td>
-  </tr>
-  <tr>
-    <td>📱 <b>Mobile</b></td>
-    <td>Flutter · Dart</td>
-  </tr>
-  <tr>
-    <td>🎮 <b>Game Dev</b></td>
-    <td>HTML5 · JavaScript 2D engines</td>
-  </tr>
-  <tr>
-    <td>🔐 <b>Cybersecurity</b></td>
-    <td>Network security · TryHackMe labs</td>
-  </tr>
-</table>
+<div align="center">
+
+| Area | Stack | Status |
+|------|-------|--------|
+| 🌐 Full Stack | TypeScript · Tailwind · Node.js | `Active` |
+| 🎮 Game Dev | JavaScript · HTML5 Canvas | `Active` |
+| 📱 Mobile | Flutter · Dart | `Learning` |
+| 🔐 Cybersecurity | TryHackMe · Network Analysis | `Ongoing` |
+| 🐧 Linux | CLI · Shell Scripting · Distro hopping | `Lifestyle` |
+
+</div>
 
 ---
 
@@ -63,23 +60,7 @@
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Frontend & Mobile
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css,tailwind,flutter,nodejs,git,linux,bash,vscode,github&perline=7&theme=dark" />
 
 </div>
 
@@ -89,18 +70,28 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noble20048&show_icons=true&theme=dark&bg_color=0d1117&border_color=00f5d4&icon_color=00f5d4&title_color=00f5d4&text_color=8892b0&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noble20048&layout=compact&theme=dark&bg_color=0d1117&border_color=00f5d4&title_color=00f5d4&text_color=8892b0" />
+<img src="https://github-readme-stats.vercel.app/api?username=noble20048&show_icons=true&theme=dark&bg_color=0d1117&border_color=00f5d4&icon_color=00f5d4&title_color=00f5d4&text_color=c9d1d9&ring_color=00f5d4&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noble20048&layout=compact&theme=dark&bg_color=0d1117&border_color=00f5d4&title_color=00f5d4&text_color=c9d1d9&hide_border=false" height="170"/>
 
 <br/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=noble20048&theme=dark&background=0d1117&border=00f5d4&stroke=00f5d4&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=noble20048&theme=dark&background=0d1117&border=00f5d4&stroke=00f5d4&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4&sideLabels=00f5d4&dates=8892b0&hide_border=false" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noble20048&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d420&hide_border=false&border_color=00f5d4&radius=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/noble20048/noble20048/output/github-snake-dark.svg" alt="snake" />
@@ -110,6 +101,8 @@
 
 ## 🏆 Hackathons
 
+<div align="center">
+
 | Year | Event | Role |
 |------|-------|------|
 | 2024 | MIC Hackathon | Participant |
@@ -117,19 +110,25 @@
 | 2026 | Exodus Hackathon | Team Participant |
 | — | TinkerHub Useless Project Hackathon | Participant |
 
+</div>
+
 ---
 
 ## 🧠 About
 
-- 🎓 B.Tech CS @ **ICCS College of Engineering & Management**, Kerala
-- 🔩 Member of **IEDC** — technical community contributions
-- 🏕️ Former **Scouts & Guides** member
-- 🐧 Installed Arch just to see if I could
+<div align="center">
+
+🎓 B.Tech CS @ **ICCS College of Engineering & Management**, Kerala  
+🔩 **IEDC** Member — technical community contributions  
+🏕️ Former **Scouts & Guides** member  
+🐧 Installed Arch just to see if I could
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d2e,100:0d1117&height=150&section=footer&animation=fadeIn&stroke=00f5d4&strokeWidth=1" />
 
 </div>
