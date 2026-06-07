@@ -2,14 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Noble%20Biju&fontSize=60&fontColor=00f5d4&fontAlignY=38&desc=CS%20Engineer%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descColor=8892b0&animation=fadeIn" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+Making;Linux+Enthusiast+%F0%9F%90%A7;Game+Dev+%7C+Security+Nerd+%7C+Flutter+Dev;Always+Building+Something+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+Making;Linux+%7C+Security+%7C+Game+Dev+%7C+Flutter;Always+Building+Something" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-noble--biju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noble-biju-ab2b4b283/)
 [![Profile Views](https://komarev.com/ghpvc/?username=noble20048&label=Profile%20Views&color=00f5d4&style=for-the-badge)](https://github.com/noble20048)
 
@@ -98,43 +96,40 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=noble20048&theme=dark&background=0d1117&border=00f5d4&stroke=00f5d4&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4&hide_border=false)
 
-<br/>
+</div>
 
 ---
 
-## 🐍 Watch Me Eat Your Commits
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/noble20048/noble20048/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/noble20048/noble20048/output/github-snake-dark.svg" alt="snake" />
 </div>
 
 ---
 
 ## 🏆 Hackathons
 
-```
-[2024] MIC Hackathon           ████████░░  Participated
-[2025] Artifact Hackathon      ████████░░  Team Competitor  
-[2026] Exodus Hackathon        ████████░░  Team Participant
-[???]  TinkerHub Useless Proj  ██████████  Built something wonderfully pointless
-```
+| Year | Event | Role |
+|------|-------|------|
+| 2024 | MIC Hackathon | Participant |
+| 2025 | Artifact Hackathon | Team Competitor |
+| 2026 | Exodus Hackathon | Team Participant |
+| — | TinkerHub Useless Project Hackathon | Participant |
 
 ---
 
 ## 🧠 About
 
 - 🎓 B.Tech CS @ **ICCS College of Engineering & Management**, Kerala
-- 🔩 Member of **IEDC** — building community through tech
+- 🔩 Member of **IEDC** — technical community contributions
 - 🏕️ Former **Scouts & Guides** member
-- ☕ Runs on curiosity and caffeine
-- 🐧 The kind of person who installs Arch just to say they did
+- 🐧 Installed Arch just to see if I could
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
-
-*"First, solve the problem. Then, write the code."*
 
 </div>
