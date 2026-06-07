@@ -36,7 +36,9 @@
 
 ---
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=500&lines=⚡+WHAT+I'M+WORKING+ON" /></div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999999&color=00F5D4&center=true&vCenter=true&repeat=false&width=500&height=50&lines=WHAT%20I%27M%20WORKING%20ON" />
+</div>
 
 <div align="center">
 
@@ -52,7 +54,9 @@
 
 ---
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=400&lines=🛠+TECH+STACK" /></div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999999&color=00F5D4&center=true&vCenter=true&repeat=false&width=380&height=50&lines=TECH%20STACK" />
+</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css,tailwind,flutter,nodejs,git,linux,bash,vscode,github&perline=7&theme=dark" />
@@ -60,7 +64,9 @@
 
 ---
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=400&lines=📊+GITHUB+STATS" /></div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999999&color=00F5D4&center=true&vCenter=true&repeat=false&width=400&height=50&lines=GITHUB%20STATS" />
+</div>
 
 <div align="center">
 
@@ -75,7 +81,9 @@
 
 ---
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=500&lines=📈+ACTIVITY+GRAPH" /></div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999999&color=00F5D4&center=true&vCenter=true&repeat=false&width=430&height=50&lines=ACTIVITY%20GRAPH" />
+</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=noble20048&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d420&hide_border=false&border_color=00f5d4&radius=6" />
@@ -83,7 +91,9 @@
 
 ---
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=500&lines=🐍+CONTRIBUTION+SNAKE" /></div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999999&color=00F5D4&center=true&vCenter=true&repeat=false&width=530&height=50&lines=CONTRIBUTION%20SNAKE" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/noble20048/noble20048/output/github-snake.gif" alt="snake" />
@@ -91,7 +101,9 @@
 
 ---
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=400&lines=🏆+HACKATHONS" /></div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999999&color=00F5D4&center=true&vCenter=true&repeat=false&width=380&height=50&lines=HACKATHONS" />
+</div>
 
 <div align="center">
 
@@ -106,7 +118,9 @@
 
 ---
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=300&lines=🧠+ABOUT" /></div>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999999&color=00F5D4&center=true&vCenter=true&repeat=false&width=320&height=50&lines=ABOUT%20ME" />
+</div>
 
 <div align="center">
 
