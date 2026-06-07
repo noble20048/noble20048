@@ -4,9 +4,10 @@ I am a B.Tech Computer Science student at ICCSCEM, focused on software engineeri
 
 ## Stats
 
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=noble20048&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+| GitHub Statistics | Top Languages |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=noble20048&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noble20048&layout=compact&theme=vue-dark) |
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noble20048&layout=compact&theme=vue-dark)
 
 ## About Me
 
