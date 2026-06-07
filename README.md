@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:00f5d4,100:0d1117&height=280&section=header&text=Noble%20Biju&fontSize=60&fontColor=ffffff&fontAlignY=40&fontFamily=Press+Start+2P&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Linux%20Nerd&descAlignY=60&descColor=00f5d4&descSize=14&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d2e,60:00f5d4,100:0d1117&height=300&section=header&text=Noble%20Biju&fontSize=60&fontColor=ffffff&fontAlignY=42&fontFamily=Press+Start+2P&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Linux%20Nerd&descAlignY=62&descColor=00f5d4&descSize=13&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Full+Stack+%7C+Linux+%7C+Security+%7C+Game+Dev;Building+things+that+(sometimes)+work;KTU+CS+%E2%86%92+Software+Engineer+someday;Always+in+the+middle+of+too+many+projects" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=Full+Stack+%7C+Linux+%7C+Security+%7C+Game+Dev;Building+things+that+(sometimes)+work;KTU+CS+%E2%86%92+Software+Engineer+someday;Always+in+the+middle+of+too+many+projects" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -38,7 +36,7 @@
 
 ---
 
-## ⚡ What I'm Working On
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=500&lines=⚡+WHAT+I'M+WORKING+ON" /></div>
 
 <div align="center">
 
@@ -54,17 +52,15 @@
 
 ---
 
-## 🛠 Tech Stack
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=400&lines=🛠+TECH+STACK" /></div>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css,tailwind,flutter,nodejs,git,linux,bash,vscode,github&perline=7&theme=dark" />
-
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=400&lines=📊+GITHUB+STATS" /></div>
 
 <div align="center">
 
@@ -79,25 +75,23 @@
 
 ---
 
-## 📈 Activity Graph
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=500&lines=📈+ACTIVITY+GRAPH" /></div>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=noble20048&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d420&hide_border=false&border_color=00f5d4&radius=6" />
-
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=500&lines=🐍+CONTRIBUTION+SNAKE" /></div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/noble20048/noble20048/output/github-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/noble20048/noble20048/output/github-snake.gif" alt="snake" />
 </div>
 
 ---
 
-## 🏆 Hackathons
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=400&lines=🏆+HACKATHONS" /></div>
 
 <div align="center">
 
@@ -112,7 +106,7 @@
 
 ---
 
-## 🧠 About
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1&pause=99999&color=00F5D4&center=true&vCenter=true&repeat=false&width=300&lines=🧠+ABOUT" /></div>
 
 <div align="center">
 
@@ -126,7 +120,5 @@
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d2e,100:0d1117&height=150&section=footer&animation=fadeIn&stroke=00f5d4&strokeWidth=1" />
-
 </div>
